@@ -1,10 +1,3 @@
-{
-  "name": "codex-v1",
-  "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {
-    "telegraf": "^4.16.3",
-    "whatsapp-web.js": "^1.19.5",
-    "qrcode-terminal": "^0.12.0"
-  }
+"scripts": {
+  "start": "node index.js"
 }
